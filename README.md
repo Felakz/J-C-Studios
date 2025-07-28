@@ -107,8 +107,8 @@ npm run lint         # Ejecutar ESLint
 ## 📧 Contacto
 
 Para consultas sobre el proyecto:
-- **Email**: hola@jcstudios.com
-- **WhatsApp**: +57 (300) 123-4567
+- **Email**: dczl0603@gmail.com   
+- **WhatsApp**: +51 926206841
 - **Website**: [J&C Studios](https://jcstudios.com)
 
 ## 📄 Licencia
